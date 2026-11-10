@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "path": "README.md",
+      "hash": "3674533f94409a838a696c7a2a9fffbfb61277e5"
+    },
+    {
+      "path": "hello.c",
+      "hash": "3f67e00fcd44030cfb7bd5efce4aa99b8ffcd9b1"
+    }
+  ]
+}

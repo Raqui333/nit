@@ -1,0 +1,19 @@
+{
+  "name": "nit-not-git",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "nit": "./main.js"
+  },
+  "scripts": {
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
+  },
+  "devDependencies": {
+    "prettier": "3.9.10"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
